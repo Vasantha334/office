@@ -1,0 +1,5 @@
+*.txt
+!code.txt
+data1/
+/home.hmtl
+
